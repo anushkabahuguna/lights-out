@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "bfefa6655a0634bec3a8",
-    "url": "/lights-out/static/css/main.c91745e0.chunk.css"
+    "revision": "9a8ebc9ac7c43f223328",
+    "url": "/lights-out/static/css/main.4c81c33d.chunk.css"
   },
   {
-    "revision": "bfefa6655a0634bec3a8",
-    "url": "/lights-out/static/js/main.bfefa665.chunk.js"
+    "revision": "9a8ebc9ac7c43f223328",
+    "url": "/lights-out/static/js/main.9a8ebc9a.chunk.js"
   },
   {
     "revision": "69765758761acc595027",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/lights-out/static/media/Potra.96a10766.otf"
   },
   {
-    "revision": "d00c2a9cc8964aaa38a71271d916cec6",
+    "revision": "bd6e7612ddd07d74da26a68f1e93fb80",
     "url": "/lights-out/index.html"
   }
 ];
